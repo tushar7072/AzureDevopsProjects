@@ -9,7 +9,7 @@
     <OutputType>Exe</OutputType>
     <StartupObject />
   </PropertyGroup>
-
+  
 
   <ItemGroup>
     <PackageReference Include="Microsoft.AspNetCore.App" />
